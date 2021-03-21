@@ -9,7 +9,8 @@ const FILES_TO_CACHE = [
   "/db.js",
   "/manifest.webmanifest",
   "/styles.css",
-  "/index.html"
+  "/index.html",
+  
 
 
   ];
