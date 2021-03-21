@@ -22,7 +22,7 @@ This app is an easy to use budget tracker that will keep track and log all of yo
 ## Installation
 Since this project is deployed the user only has t go to the site to use it.
 
-Site Link :
+Site Link : (https://cryptic-mesa-54909.herokuapp.com/)
 
 ## Usage
 To use this app yu simply have togo to the site and start keeping track of your bills if you want to add expenses enter their information then press subtract funds if you want to add funds do the same and then add the funds. Your budget will be stored in the title og the document so you can easily see how much money you have.
